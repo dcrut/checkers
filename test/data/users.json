@@ -1,0 +1,16 @@
+[
+  {
+    "_id": { "$oid": "012345678901234567890011" },
+    "username": "Bob",
+    "email": "bob@hotmail.com",
+    "password": "password1",
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "012345678901234567890012" },
+    "username": "Alice",
+    "email": "alice@yahoo.com",
+    "password": "password1",
+    "dateCreated": { "$date": "2016-06-30T00:00:00.000Z" }
+  }
+]
